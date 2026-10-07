@@ -4,7 +4,7 @@
 
 > **✅ Tested:** yfinance 1.7.0 · Python 3.12 · pandas 3.0.6 · Last verified: 2026-10-07 · [Update policy](https://goosos.com/about#freshness)
 
-> **📊 Market snapshot** (as of 2026-10-07): SPY $779.09 · QQQ $759.66 · BTC $83,700 · ETH $2,579 — for context on when this was written.
+> **📊 Market snapshot** (as of 2026-10-07): SPY $779.09 · QQQ $759.66 · BTC $83,619 · ETH $2,575 — for context on when this was written.
 
 **Target keyword:** data cleaning backtesting
 **Meta description:** Your backtest is only as honest as your data. Learn to handle splits, dividends, missing bars, timezone alignment, and survivorship bias — and add data.py to your quant toolkit. Full runnable code.
